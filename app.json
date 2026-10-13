@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Booster Burst V2",
+    "slug": "booster-burst-v2",
+    "version": "0.2.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.example.boosterburst"
+    },
+    "android": {
+      "package": "com.example.boosterburst"
+    },
+    "plugins": [
+      "expo-audio"
+    ]
+  }
+}
